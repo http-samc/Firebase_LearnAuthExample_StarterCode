@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772510271425",
+    "project_id": "learnauthexample-867e9",
+    "storage_bucket": "learnauthexample-867e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772510271425:android:e07547e2503c873436d140",
+        "android_client_info": {
+          "package_name": "com.example.firebase_learnauthexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772510271425-53qojpk5dlq24ksnb8hn6s4p8p4ebhnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNtb6FFOWoFvpoEDKpT-qH1kSnxrc4Srk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772510271425-53qojpk5dlq24ksnb8hn6s4p8p4ebhnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
